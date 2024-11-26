@@ -1,0 +1,24 @@
+1.basic Git Operations
+
+- Initialize a Git repository and add a file with your name and a fun fact. Stage and commit changes.  
+- Add another file listing your tasks and commit the changes.  
+- Use `git status` to review the current repository state.
+
+2: Branching and Merging
+
+- Create a new branch for adding more information to your file.  
+- Commit changes in the new branch, then merge it into the `main` branch.  
+- Push the changes to GitHub.
+
+3: Forking and Pull Requests
+
+- Fork a public GitHub repository, then clone it to your machine.  
+- Create a feature branch in the forked repo, make changes, and commit them.  
+- Push the feature branch to GitHub and create a pull request to merge it into the original repository.
+
+4: Collaboration and Merge Conflicts
+
+- Collaborate with a peer by editing the same file in separate branches.  
+- Resolve any merge conflicts that arise, then push and merge the changes.  
+- Delete branches after merging to keep the repository clean.
+
